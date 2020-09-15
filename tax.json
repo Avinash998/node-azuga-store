@@ -1,0 +1,16 @@
+[{
+    "itemCategory": "Medicine",
+    "tax": 5
+},
+{
+    "itemCategory": "Food",
+    "tax": 2
+},
+{
+    "itemCategory": "Imported",
+    "tax": 18
+},
+{
+    "itemCategory": "Book",
+    "tax": 0
+}]
